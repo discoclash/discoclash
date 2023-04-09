@@ -4,7 +4,7 @@
 
 ### Мой стек
 
-iOS SDK, Swift, UIKit, CleanSwift, MVC and MVVM Architecture Patterns, Multithreading (GCD, OperationQueue, Async/await), Git/GitFlow, CocoaPods/Swift Package Manager, вёрстка кодом, разделение приложения на модули, unit-тесты, SOLID, ООП
+iOS SDK, Swift, UIKit, CoreData, CleanSwift, MVC and MVVM Architecture Patterns, Multithreading (GCD, OperationQueue, Async/await), Git/GitFlow, CocoaPods/Swift Package Manager, вёрстка кодом, разделение приложения на модули, unit-тесты, SOLID, ООП
 
 ### Вот, что я умею:
 
