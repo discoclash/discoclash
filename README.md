@@ -12,7 +12,11 @@ iOS SDK, Swift, UIKit, CleanSwift, MVC and MVVM Architecture Patterns, Multithre
 
 - Работаю с архитектурами CleanSwift, MVC, MVVM, пишу Unit-Тесты, бью приложения на модули с помощью CocoaPods [Практические задания в Alfa Campus](https://github.com/discoclash/alfa-campus-homeworks-2)
 
-- Работаю с фреймворком UIKit [Тестовый экран с анкетой](https://github.com/discoclash/test-form-screen) , [Дипломная работа в Нетологии - разработка тестовых экранов приложения VK](https://github.com/discoclash/ios-homeworks) , [Игра "Угадайка"](https://github.com/discoclash/guessing-game)
+- Работаю с фреймворком UIKit: 
+    - [Экран с анкетой](https://github.com/discoclash/test-form-screen)
+    - [Дипломная работа в Нетологии - разработка экранов приложения VK](https://github.com/discoclash/ios-homeworks)
+    - [Игра "Угадайка"](https://github.com/discoclash/guessing-game)
+    - [Тестовое задание для Hammer Systems](https://github.com/discoclash/FoodApp)
 
 ### Сертификаты:
 
