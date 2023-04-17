@@ -4,13 +4,13 @@
 
 ### Мой стек
 
-iOS SDK, Swift, UIKit, CoreData, CleanSwift, MVC and MVVM Architecture Patterns, Multithreading (GCD, OperationQueue, Async/await), Git/GitFlow, CocoaPods/Swift Package Manager, вёрстка кодом, разделение приложения на модули, unit-тесты, SOLID, ООП
+iOS SDK, Swift, UIKit, CoreData, CleanSwift, MVC and MVP Architecture Patterns, Multithreading (GCD, OperationQueue, Async/await), Git/GitFlow, CocoaPods/Swift Package Manager, вёрстка кодом, разделение приложения на модули, unit-тесты, SOLID, ООП
 
 ### Вот, что я умею:
 
 - Владею языком программирования Swift [Практические задания в Alfa Campus](https://github.com/discoclash/alfa-campus-homeworks)
 
-- Работаю с архитектурами CleanSwift, MVC, MVVM, пишу Unit-Тесты, бью приложения на модули с помощью CocoaPods [Практические задания в Alfa Campus](https://github.com/discoclash/alfa-campus-homeworks-2)
+- Работаю с архитектурами CleanSwift, MVC, MVP, пишу Unit-Тесты, бью приложения на модули с помощью CocoaPods [Практические задания в Alfa Campus](https://github.com/discoclash/alfa-campus-homeworks-2)
 
 - Работаю с фреймворком UIKit: 
     - [Экран с анкетой](https://github.com/discoclash/test-form-screen)
